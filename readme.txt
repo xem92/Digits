@@ -1,0 +1,3 @@
+-Análisis del conjunto de datos
+-Cambio de projección en diferentes componentes principales
+-Clasificación de digitos mediante K-Neighbours utilizando diferentes tipos de projecciones
